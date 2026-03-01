@@ -34,8 +34,14 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
-       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+       {% if author.college %}
+        <li><i class="fa fa-fw fa-college"></i> {{ author.college }}</li>
+      {% endif %}
+      {% if author.major %}
+        <li><i class="fa fa-fw fa-major"></i> {{ author.major }}</li>
+      {% endif %}
+      {% if author.phone %}
+        <li><i class="fa fa-fw fa-phone"></i> {{ author.phone }}</li>
       {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
