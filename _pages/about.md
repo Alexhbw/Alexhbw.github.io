@@ -52,10 +52,10 @@ redirect_from:
 - 自动控制原理、微电路设计、人因工效学、数理综合、线性代数、概率论与数理统计、工程原理、工程设计、定量工程设计方法、机器人基础、自然与设计、产品设计、程序设计、个性化实践
 
 ### 个性化实践：
-- 大三上学期（2025.9~2026.2） [[报告]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\Report3A.pdf) [[答辩]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\PPT3A.pptx)
-- 大二下学期（2025.2~2025.6）[[报告]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\Report2B.pdf) [[答辩]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\PPT2B.pptx)
-- 大二上学期（2024.9~2025.1）[[报告]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\Report2A.pdf) [[答辩]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\PPT2A.pptx)
-- 大一下学期（2024.2~2024.6）[[报告]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\Report1B.pdf) [[答辩]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\PPT1B.pptx)
+- 大三上学期（2025.9~2026.2） [[报告]](/recources/gxhsj/Report3A.pdf)  [[答辩]](/recources/gxhsj/PPT3A.pptx)
+- 大二下学期（2025.2~2025.6） [[报告]](/recources/gxhsj/Report2B.pdf)  [[答辩]](/recources/gxhsj/PPT2B.pptx)
+- 大二上学期（2024.9~2025.1） [[报告]](/recources/gxhsj/Report2A.pdf)  [[答辩]](/recources/gxhsj/PPT2A.pptx)
+- 大一下学期（2024.2~2024.6） [[报告]](/recources/gxhsj/Report1B.pdf)  [[答辩]](/recources/gxhsj/PPT1B.pptx)
 - 大一上学期（2023.9~2024.1）
 
 <br><br>
@@ -106,13 +106,13 @@ redirect_from:
 ### 英文
 ---
 -	Jingquan Hong, `Bowen Hao`, Huaicheng He, Chen Tang. Heart Rate Detection System Based on ADS1292 Module. 2025 6th International Conference on Computer Engineering and Intelligent Control (ICCEIC), 2025. DOI: 10.1109/ICCEIC67916.2025.11309043.
-[[网页]](https://ieeexplore.ieee.org/abstract/document/11309043) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[网页]](https://ieeexplore.ieee.org/abstract/document/11309043) [[下载]](recources/paper/Heart_Rate_Detection_System_Based_on_ADS1292_Module.pdf)
 
 ### 中文
 ---
 
 - 洪竞权, `郝博文`, 何怀骋，唐晨。基于 ADS1292 模块的心率检测系统. 2025 6th International Conference on Computer Engineering and Intelligent Control (ICCEIC). 2025. (EI 会议)  
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[下载]](recources/paper/Heart_Rate_Detection_System_Based_on_ADS1292_Module.pdf)  
 
 </div>
 </div>
@@ -120,7 +120,7 @@ redirect_from:
 
 ### 专利（申请中）
 ---
-- 洪竞权, `郝博文`,孙鹤梅,杨倩,任奔奔,常锦宏,孙奇栋,赵江涛. 一种驱动舵轮. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
+- 洪竞权, `郝博文`,孙鹤梅,杨倩,任奔奔,常锦宏,孙奇栋,赵江涛. 一种驱动舵轮. [[受理通知书]](recources/patent/CN2255429_Application.pdf) [[申请文件]](recources/patent/document.pdf)
 
 
 <br><br>
@@ -128,9 +128,9 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2024.10.01 - 2025.01.20*, 重庆晨之越科技有限公司（明月湖国际智能产业基地）, 重庆
-- *2025.07.01 - 2025.07.30*, 深圳科创学院, 深圳
-- *2025.09.01 - 2025.12.01*, Xbotics具身智能社区, 杭州
+- *2025.09.01 - 2025.12.01*, Xbotics具身智能社区, 杭州 [[下载实习证明]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg)
+- *2025.07.01 - 2025.07.30*, 深圳科创学院, 深圳 [[下载实习证明]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
+- *2024.10.01 - 2025.01.20*, 重庆晨之越科技有限公司（明月湖国际智能产业基地）, 重庆 [[下载实习证明]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
 
 <!-- <span class='anchor' id='-xshy'></span>
 
@@ -155,8 +155,8 @@ redirect_from:
 - **控制系统**：集成视觉传感器、显示屏、语音模块等，实现精准灌溉与信息播报
 
 **项目成果**：
-- 获得 2025年中国机器人大赛ROBOCUP农业灌溉组全国赛 `二等奖` 
-- 获得 2025中国机器人大赛重庆区域赛农业灌溉组 `省冠军`
+- 获得 2025年中国机器人大赛ROBOCUP农业灌溉组全国赛 `二等奖` [[国赛证书]](recources/project/irrigation/2025%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8RoboCup%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%ef%bc%88%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e8%b5%9b%e5%8c%ba%ef%bc%89-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%88%e6%80%bb%e5%86%b3%e8%b5%9b%ef%bc%89-Y2509T1450174-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf) [[技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%ba%8c%e4%bb%a3.pdf)
+- 获得 2025中国机器人大赛重庆区域赛农业灌溉组 `省冠军` [[省赛证书]](recources/project/irrigation/2025+%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8+RoboCup+%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%e5%ba%86%e5%8c%ba%e5%9f%9f%e8%b5%9b-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba-Y2507T0740378-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf) [[技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%b8%80%e4%bb%a3.pdf)
 - 凭借舵轮设计进行一项 `专利申请`（申请中）
 
 ---
@@ -170,8 +170,8 @@ redirect_from:
 - **机械设计**：独立对轮椅机器人的整体机械结构与局部模块进行了设计与建模
 
 **项目成果**：
-- 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项`
-- 发表 `ICCEIC会议论文`一篇（《基于ADS1292模块的心率检测系统》）
+- 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项` [[证明]](recources/project/wheelchair/%e5%9b%bd%e5%b8%82%e5%88%9b%e7%bb%93%e9%a2%98%e6%88%90%e6%9e%9c.xlsx) [[结项答辩]](recources/project/wheelchair/%e5%a4%9a%e6%a8%a1%e6%80%81%e6%99%ba%e8%83%bd%e8%bd%ae%e6%a4%85%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%bb%93%e9%a2%98.pdf)[[结题报告]](recources/project/wheelchair/%e7%bb%93%e9%a2%98%e6%8a%a5%e5%91%8a.docx)
+- 发表 `ICCEIC会议论文`一篇（《基于ADS1292模块的心率检测系统》） [[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[下载]](recources/paper/Heart_Rate_Detection_System_Based_on_ADS1292_Module.pdf) 
 
 ---
 
@@ -186,7 +186,7 @@ redirect_from:
 ②使用STM32F407的定时器记录机械臂单次解算时间从而得出计算效率
 
 **项目成果**：
-- 实验室项目（推进中）
+- 实验室项目（推进中） [[技术文档]](recources/project/openarm/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e6%9c%ba%e6%a2%b0%e8%87%82.pdf) [[答辩]](https://www.canva.cn/design/DAG9z3NYTLE/bVYEyEEiKY2FublAuxSCPw/edit?utm_content=DAG9z3NYTLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 ---
 
