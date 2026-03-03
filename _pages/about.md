@@ -149,6 +149,7 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
 <div>
+
 ## 🤖 中国机器人大赛农业组 - 农业灌溉机器人
 
 **项目简介**：自主导航与精准灌溉的农业机器人系统
@@ -163,19 +164,20 @@ redirect_from:
 - 获得 2025中国机器人大赛重庆区域赛农业灌溉组 `省冠军` [[省赛证书]](recources/project/irrigation/2025+%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8+RoboCup+%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%e5%ba%86%e5%8c%ba%e5%9f%9f%e8%b5%9b-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba-Y2507T0740378-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf) 
 - 凭借舵轮设计进行一项 `专利申请`（申请中）
 
-
 **相关资料**：
 [[省赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%ba%8c%e4%bb%a3.pdf) [[国赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%b8%80%e4%bb%a3.pdf)
 
 </div>
 <div>
+
 <img src="/recources/pictures/irrigation.png" alt="农业灌溉机器人" style="max-width:200px; height:auto;">
+
 </div>
 </div>
 
 ---
 
-## 🚗 重庆大学Robomaster千里战队 - 英雄机器人结构设计
+## 🤖 重庆大学Robomaster千里战队 - 英雄机器人结构设计
 **项目简介**：作为英雄组机械设计了25赛季英雄机器人底盘、云台与测试弹舱
 
 **主要职责**：
