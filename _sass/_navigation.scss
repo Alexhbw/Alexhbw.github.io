@@ -202,32 +202,28 @@
   }
 
   .visible-links {
-    display: block;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    white-space: nowrap;
-    overflow: hidden;
+    display: table;
 
     li {
-      display: inline-block;
+      display: table-cell;
       vertical-align: middle;
-      margin: 0;
-      padding: 0;
 
       &:first-child {
         font-weight: bold;
+
+        a {
+          margin-left: 0;
+        }
+      }
+
+      &:last-child {
+        a {
+          margin-right: 0;
+        }
       }
     }
 
     a {
-      display: inline-block;
-      margin: 0 1rem;
-      padding: 0.5rem 0;
-      color: $masthead-link-color;
-      text-decoration: none;
-      white-space: nowrap;
       position: relative;
 
       &:hover {
