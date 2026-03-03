@@ -37,8 +37,7 @@ redirect_from:
   
 
 ## 我的语言包括：
-- 大学生英语四级
-- 大学生英语六级
+- 大学生英语四级/六级
 - 雅思（备考中，预计2026年4月考试）
 - C、Python、C++、Matlab
 
@@ -260,7 +259,7 @@ redirect_from:
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
 
-<img src="/recources/pictures/openarm.png" alt="机械臂" style="max-width:300px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+<img src="/recources/pictures/openarm.png" alt="机械臂" style="max-width:250px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>
@@ -288,7 +287,7 @@ redirect_from:
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
 
-<img src="/recources/pictures/lamp.png" alt="台灯小桌宠" style="max-width:300px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+<img src="/recources/pictures/lamp.png" alt="台灯小桌宠" style="max-width:250px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>
