@@ -5,19 +5,32 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="/en/" target="_self">
-              <img class="svg" src="/images/en.svg" width="20pt"> 
-              English
-            </a>
+            {% if page.url contains '/en/' %}
+              <a href="/" target="_self">
+                <img class="svg" src="/images/en.svg" width="20pt"> 
+                中文
+              </a>
+            {% else %}
+              <a href="/en/" target="_self">
+                <img class="svg" src="/images/en.svg" width="20pt"> 
+                English
+              </a>
+            {% endif %}
           </li>
           {% if page.url contains '/en/' %}
-            {% for link in site.data.navigation-en.main %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endfor %}
+            <li class="masthead__menu-item"><a href="/en/#about-me">About</a></li>
+            <li class="masthead__menu-item"><a href="/en/#-zxkc">Courses</a></li>
+            <li class="masthead__menu-item"><a href="/en/#-ryjx">Awards</a></li>
+            <li class="masthead__menu-item"><a href="/en/#-lwzl">Publications</a></li>
+            <li class="masthead__menu-item"><a href="/en/#-gzsx">Experience</a></li>
+            <li class="masthead__menu-item"><a href="/en/#-xmjl">Projects</a></li>
           {% else %}
-            {% for link in site.data.navigation.main %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endfor %}
+            <li class="masthead__menu-item"><a href="/#about-me">简介</a></li>
+            <li class="masthead__menu-item"><a href="/#-zxkc">主修课程</a></li>
+            <li class="masthead__menu-item"><a href="/#-ryjx">荣誉奖项</a></li>
+            <li class="masthead__menu-item"><a href="/#-lwzl">论文专利</a></li>
+            <li class="masthead__menu-item"><a href="/#-gzsx">工作实习</a></li>
+            <li class="masthead__menu-item"><a href="/#-xmjl">项目经历</a></li>
           {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
