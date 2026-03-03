@@ -177,7 +177,7 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## 🤖 重庆大学Robomaster千里战队 - 英雄机器人结构设计
@@ -206,10 +206,10 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
-## 🤖 国家（市）级大学生创业训练项目 - 多模态智能轮椅机器人
+## 🦼 国家（市）级大学生创业训练项目 - 多模态智能轮椅机器人
 
 **项目简介**：集成视觉、听觉、健康监测系统的轮椅机器人
 
@@ -235,10 +235,10 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
-## 🤖 重庆大学具身智能实验室 - 七自由度机械臂运动学
+## 🦾 重庆大学具身智能实验室 - 七自由度机械臂运动学
 
 **项目简介**：基于OpenArm机械臂的正逆运动学解算与性能测试
 
@@ -260,17 +260,17 @@ redirect_from:
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
 
-<img src="/recources/pictures/openarm.png" alt="机械臂" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+<img src="/recources/pictures/openarm.png" alt="机械臂" style="max-width:300px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
-## 🚗 自动控制原理 - 多模态台灯小桌宠
+## 🛋️ 自动控制原理 - 多模态台灯小桌宠
 
 **项目简介**：集成视觉、听觉、情绪交互的台灯桌宠
 
@@ -288,14 +288,14 @@ redirect_from:
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
 
-<img src="/recources/pictures/lamp.png" alt="台灯小桌宠" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+<img src="/recources/pictures/lamp.png" alt="台灯小桌宠" style="max-width:300px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## 🚗 大学生工程实践与创新能力大赛 - 智能救援组
@@ -324,7 +324,7 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## 🎯 "畅跑呼吸"团队项目 - 明月湖科创基地创业项目
@@ -349,7 +349,7 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## 🎯 宁波XPotPark智能研究院冬令营 - 产品设计项目
@@ -378,7 +378,7 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## ⚙️ 扫地机器人重制与升级 - 微电路设计 课程项目
@@ -403,7 +403,7 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## ⚙️ 斯特林发动机设计与制造 - Adams、Matlab 课程项目
