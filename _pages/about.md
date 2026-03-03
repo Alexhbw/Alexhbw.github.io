@@ -147,8 +147,8 @@ redirect_from:
 
 # 💡 项目经历
 
-<div style="display: flex; align-items: flex-start; gap: 1rem;">
-<div>
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## 🤖 中国机器人大赛农业组 - 农业灌溉机器人
 
