@@ -19,7 +19,7 @@ Hello 👋! I am Hao Bowen, a junior student from Suzhou, Jiangsu Province, stud
 
 Since enrollment, I have accumulated 170 hours of volunteer service, actively participated in technological innovation and social practice. I led teams to receive `national-level excellent project completion` in undergraduate innovation and entrepreneurship projects, `served as a student teaching assistant for two semesters`, participated in `two summer social practices` and `three internships`. I have interned at Shenzhen Innovation Academy, Mingyuehu Innovation and Industrial Base, and Xbotics Embodied Intelligence Community. I excel in both academic performance and work ability.
 
-Currently researching redundant robotic arm kinematics at Chongqing University's Embodied Intelligence Laboratory. The "Chanpao Breathing" team, which I am a core member of, has passed the `RMB 100,000 staged funding approval` from Mingyuehu International Smart Industrial Innovation Base. I will participate in one semester of exchange learning at `Singapore University of Technology and Design` starting in September 2026 [[Study Plan ]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e8%8b%b1%e6%96%87%e7%89%88%ef%bc%89.pdf).
+Currently researching redundant robotic arm kinematics and Deep Reinforcement Learning at Chongqing University's Embodied Intelligence Laboratory. The "Chanpao Breathing" team, which I am a core member of, has passed the `RMB 100,000 staged funding approval` from Mingyuehu International Smart Industrial Innovation Base. I will participate in one semester of exchange learning at `Singapore University of Technology and Design` starting in September 2026 [[Study Plan ]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e8%8b%b1%e6%96%87%e7%89%88%ef%bc%89.pdf).
 
 ## My Personal Skills Include:
 - Mechanical Modeling (Fusion360, Solidworks, Machining, Assembly, etc.)
@@ -27,13 +27,14 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 - Embedded Development (Keil v5 + STM32CubeMX, Standard Library and HAL Library)
 - ROS (Rviz, Gazebo, Mujoco)
 - Physics and Mechanical Simulation (Matlab, ADAMS, Unity)
+- Large Model Deployment and Fine-tuning (Scene Adaptation and Model Invocation)
 - UI Design and Mini-programs (Matlab, WeChat)
 - Video Editing (CapCut, Photoshop)
 
 ## Languages I Speak:
 - English Proficiency (CET-4/6)
 - IELTS (Preparing, expected test in April 2026)
-- Programming: C, Python, C++, Matlab
+- Programming: C, Python, C++, Matlab, C#
 
 <!-- <br><br> -->
 
@@ -76,6 +77,7 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 - *2024.10* 2024 Chongqing University VEX Robot Competition  `School First Prize`
 - *2024.11* 2024 Chongqing University Physics Academic Competition (CUPT)  `School First Prize`
 - *2025.05* 2025 Chongqing University Intelligent Car Competition Miniature Electromagnetic Group  `School Second Prize`
+- ...
 
 ### Student Leadership Awards
 - *2025.11* Chongqing University `Excellent Student`
@@ -83,12 +85,14 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 - *2025.03* Chongqing University Excellent Student Comprehensive Quality Evaluation `Second-class Scholarship`
 - *2025.09* Chongqing University Excellent Student Comprehensive Quality Evaluation `Second-class Scholarship`
 - *2026.03* Chongqing University Excellent Student Comprehensive Quality Evaluation `Second-class Scholarship`
+- ...
 
 ### Other Awards
 - *2026.01* Chongqing University 2025 Second Batch University Student Entrepreneurship Training Project - `National Excellent Completion`
 - *2024.06* University Student Scientific Research Training Program (SRTP) - `Good Completion`
 - *2025.07* Shenzhen Innovation Academy - `Star Teaching Assistant`
 - *2024.01* Ningbo XPotPark Smart Research Institute Winter Camp - `Excellent Camper`
+- ...
 
 ---
 
@@ -108,7 +112,7 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 </div>
 </div>
 
-## Patents (Under Application)
+## Patents 
 ---
 - Jingquan Hong, `Bowen Hao`, Hemel Sun, Qian Yang, Benben Ren, Jinhong Chang, Qidong Sun, Jiangtao Zhao. A Type of Driven Steering Wheel. [[Acceptance Notice]](recources/patent/CN2255429_Application.pdf) [[Application Document]](recources/patent/document.pdf)
 
@@ -117,9 +121,9 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work and Internship Experience
-- *2025.09.01 - 2025.12.01*, Xbotics Embodied Intelligence Community, Hangzhou [[Download Internship Certificate]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg)
+- *2025.09.01 - 2025.12.01*, Xbotics Embodied Intelligence Community, Hangzhou [[Download Internship Certificate]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[Community Official Website]](https://xbotics-embodied.site/)
 - *2025.07.01 - 2025.07.30*, Shenzhen Innovation Academy, Shenzhen [[Download Internship Certificate]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
-- *2024.10.01 - 2025.01.20*, Chongqing Chenzhiyue Technology Co., Ltd. (Mingyuehu International Smart Industrial Innovation Base), Chongqing [[Download Internship Certificate]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
+- *2024.10.01 - 2025.01.20*, Chongqing Chenzhiyue Technology Co., Ltd. (Mingyuehu International Smart Industrial Innovation Base), Chongqing [[Download Internship Certificate]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[Product Introduction]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[Product Link]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)
 
 ---
 
@@ -134,10 +138,10 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 
 ## 🤖 China Robot Competition Agricultural Group - Agricultural Irrigation Robot
 
-**Project Overview**: Autonomous navigation and precision irrigation agricultural robot system
+**Project Overview**: Agricultural robot system with autonomous navigation system and precision irrigation structure
 
 **Main Responsibilities**:
-- **Mechanical Design**: Mechanical structure design and 3D modeling of omni-wheel agricultural robot chassis
+- **Mechanical Design**:Independently developed the mechanical structure design and 3D modeling of the steering wheel chassis for agricultural robots
 - **Transmission Mechanism**: Designed a cloud platform with ball screws and rack-pinion mechanisms for three-degree-of-freedom spray head extension
 - **Control System**: Integrated vision sensors, display screens, and voice modules for precise irrigation and information broadcast
 
@@ -164,11 +168,11 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 
 ## 🤖 Chongqing University Robomaster Team - Hero Robot Structural Design
 
-**Project Overview**: Designed the 2025 season hero robot chassis, turret, and testing ammunition magazine
+**Project Overview**: As the leader of the Hero Team, I designed the chassis, gimbal and test ammunition compartment for the 2025 Hero Robot
 
 **Main Responsibilities**:
 - **Testing Framework**: Designed synchronous belt Yaw axis, ammunition magazine, and testing framework for infantry robot launching mechanism
-- **Hero Chassis**: Designed hero robot chassis meeting 2025 season climbing and stair-stepping requirements
+- **Hero Chassis**: Designed the hero robot chassis that meets the climbing and stair‑ascending requirements for the 2025 season
 - **Linkage Turret**: Designed linkage-driven turret with Yaw and Pitch axes for hero robot
 
 **Project Results**:
@@ -193,7 +197,7 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 
 ## 🦼 National (Municipal) Level University Student Entrepreneurship Training Project - Multimodal Intelligent Wheelchair Robot
 
-**Project Overview**: Wheelchair robot with integrated vision, audio, and health monitoring systems
+**Project Overview**: A wheelchair robot with both environmental perception capability and health monitoring system
 
 **Main Responsibilities**:
 - **Embedded Development**: Designed user cardiac monitoring system using Zhengdian Atom Explorer and ADS1292 module
@@ -222,12 +226,16 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 
 ## 🦾 Chongqing University Embodied Intelligence Laboratory - Seven DOF Robotic Arm Kinematics
 
-**Project Overview**: Kinematic solving and performance testing based on OpenArm robotic arm
+**Project Overview**: Kinematics Calculation and Trajectory Planning Based on OpenArm Manipulator
 
 **Main Responsibilities**:
 - **Kinematics Algorithm**: Purified and restructured KDL robotic arm kinematics library, analyzed core algorithms
-- **Hardware-in-Loop Simulation**: Implemented STM32 direct control of ROS virtual robotic arm using reconstructed kinematics library
-- **Kinematics Library Performance Testing**: Used Matlab to fit target trajectory and actual end-effector trajectory to verify kinematic solving accuracy; Used STM32F407 timer to record single solving time to determine computational efficiency
+- **Hardware-in-Loop Simulation**: The self-developed kinematics library is used to realize direct control of the ROS virtual manipulator by STM32
+- **Kinematics Library Performance Testing**: 
+
+  ①Used Matlab to fit target trajectory and actual end-effector trajectory to verify kinematic solving accuracy; 
+
+  ②Used STM32F407 timer to record single solving time to determine computational efficiency
 
 **Project Results**:
 - Ongoing laboratory project
@@ -250,7 +258,7 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 
 ## 🛋️ Automatic Control Principles - Multimodal Desk Pet Lamp
 
-**Project Overview**: Desk pet lamp with integrated vision, audio, and emotional interaction
+**Project Overview**: Multifunctional Desk Lamp Pet with Integrated Vision, Audition and Emotional Interaction
 
 **Main Responsibilities**:
 - **Embedded Development**: State machine programming for voice and vision modules with desk pet expression; Closed-loop PID control algorithm for LED strip
@@ -278,11 +286,11 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 
 ## 🚗 University Student Engineering Practice and Innovation Ability Competition - Intelligent Rescue Robot
 
-**Project Overview**: Design an intelligent rescue robot with automatic and manual modes within size constraints
+**Project Overview**: An intelligent rescue robot car with dual automatic/manual modes designed under multiple rule constraints
 
 **Main Responsibilities**:
 - **Mechanical Design**: Through four iterations, designed dual-wheel differential drive, tri-omnidirectional wheel, and quad-omnidirectional wheel chassis with gripper structure
-- **Vision Algorithm**: Used Maixcam vision sensor for ball recognition and tracking
+- **Vision Algorithm**: Algorithm Development for Target Rescue Object Recognition and Tracking Based on Maixcam Vision Sensor
 - **Poster Design**: Used Photoshop for poster design and production
 
 **Project Results**:
@@ -305,14 +313,14 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 <div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
-## 🎯 "Chanpao Breathing" Team Project - Mingyuehu Innovation Base Entrepreneurship Project
+## 🎯 "Changpao Breathing" Team Project - Mingyuehu Innovation Base Entrepreneurship Project
 
-**Project Overview**: Hardware device designed for joggers' pain points with automatic air condition adjustment
+**Project Overview**: As a core member, developed a hardware device for running enthusiasts that automatically adjusts air quality
 
 **Main Responsibilities**:
 - **Market Research**: Conducted extensive desktop research and user interviews to identify pain points, established user personas
-- **Project Management**: Participated in team presentations, created PPTs and reports
 - **Prototype Development**: Determined technical roadmap for prototype, conducted component selection and PCB design
+- **Large Model Development**：Deploy a localized lightweight large model for the prototype to achieve environmental perception and data understanding
 
 **Project Results**:
 - Team passed RMB 100,000 staged funding approval from Mingyuehu Innovation Base, currently in RMB 500,000 exploration phase
@@ -332,7 +340,7 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 
 ## 🎯 Ningbo XPotPark Smart Research Institute Winter Camp - Product Design Project
 
-**Project Overview**: Oral electric ultrasonic toothbrush
+**Project Overview**: As a core member, developed a mouth-held electric ultrasonic toothbrush.
 
 **Main Responsibilities**:
 - Market research and project defense
@@ -361,7 +369,7 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 
 ## ⚙️ Robot Vacuum Redesign and Upgrade - Micro-circuit Design Course Project
 
-**Project Overview**: Complete redesign and feature expansion of Haier TL30UI robot vacuum
+**Project Overview**: A multifunctional sweeping robot with autonomous mapping and path planning, realized through the overall redesign and function expansion of the Haier TL30UI
 
 **Main Responsibilities**:
 - **Component Selection**: Component and sensor selection testing based on robot vacuum functional requirements
@@ -384,14 +392,14 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 <div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
-## ⚙️ Stirling Engine Design and Manufacturing - ADAMS and Matlab Course Project
+## ⚙️ Stirling Engine Design and Manufacturing - Engineering Design Project
 
-**Project Overview**: Complete design and simulation of γ-type Stirling engine
+**Project Overview**: Complete Design and Simulation of a γ-Type Stirling Engine Implemented from 0 to 1
 
 **Main Responsibilities**:
 - **Structural Design**: Responsible for mechanical structure design, fabrication, and machining, completed physical prototype
 - **Thermodynamic Analysis**: Quantitative analysis of Stirling cycle inside cylinder, iterated design parameters
-- **Co-simulation**: Imported model into ADAMS, coupled with Simulink for comprehensive simulation, analyzed theoretical output power
+- **Co-simulation**: Co-simulation is carried out using Adams and Matlab Simulink to analyze the theoretical output power
 
 **Related Materials**:
 [[PPT]](https://www.canva.cn/design/DAGo65B5ZE4/Q4TUP6bT78ATlZTyYmljIQ/edit?utm_content=DAGo65B5ZE4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [[Technical Document]](recources/project/stirlingengine/%e9%83%9d%e5%8d%9a%e6%96%87-20234021-%e6%9c%80%e7%bb%88%e6%8a%a5%e5%91%8a.pdf)
