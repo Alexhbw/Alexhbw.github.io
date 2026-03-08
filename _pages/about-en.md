@@ -2,7 +2,7 @@
 permalink: /en/
 title: ""
 excerpt: ""
-author_profile: false
+author_profile: true
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -17,7 +17,7 @@ author_profile: false
 # 📖 About Me
 Hello 👋! I am Hao Bowen, a junior student from Suzhou, Jiangsu Province, studying at Chongqing University's National Excellence Engineer Academy, Class 2023 Mingyue Innovation Lab, a probationary member of the CCP, and an excellent student at Chongqing University. My comprehensive evaluation ranking is 5th in grade with a total GPA of `3.57 (87.04/100)`; I have received `6 national-level awards`, `9 provincial-level awards`, and `13 school-level awards` in two years, and obtained 3 times of second-class comprehensive scholarships. Currently serving as Vice President of the Science and Technology Association of the National Excellence Engineer Academy and a teaching assistant for the "Human Factors Engineering" course for the 2024-level Mingyue Innovation Lab.
 
-Since enrollment, I have accumulated 170 hours of volunteer service, actively participated in technological innovation and social practice. I led teams to receive `national-level excellent project completion` in undergraduate innovation and entrepreneurship projects, `served as a student teaching assistant for two semesters`, participated in `two summer social practices` and `three internships`. I have interned at Shenzhen Innovation Academy, Mingyuehu Innovation and Industrial Base, and Xbotics Embodied Intelligence Community. I excel in both academic performance and work ability.
+Since enrollment, I have accumulated 202 hours of volunteer service, actively participated in technological innovation and social practice. I led teams to receive `national-level excellent project completion` in undergraduate innovation and entrepreneurship projects, `served as a student teaching assistant for four courses`, participated in `two summer social practices` and `three internships`. I have interned at Shenzhen Innovation Academy, Mingyuehu Innovation and Industrial Base, and Xbotics Embodied Intelligence Community. I excel in both academic performance and work ability.
 
 Currently researching redundant robotic arm kinematics and Deep Reinforcement Learning at Chongqing University's Embodied Intelligence Laboratory. The "Chanpao Breathing" team, which I am a core member of, has passed the `RMB 100,000 staged funding approval` from Mingyuehu International Smart Industrial Innovation Base. I will participate in one semester of exchange learning at `Singapore University of Technology and Design` starting in September 2026 [[Study Plan ]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e8%8b%b1%e6%96%87%e7%89%88%ef%bc%89.pdf).
 
@@ -29,6 +29,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - Physics and Mechanical Simulation (Matlab, ADAMS, Unity)
 - Large Model Deployment and Fine-tuning (Scene Adaptation and Model Invocation)
 - UI Design and Mini-programs (Matlab, WeChat)
+- Web Development and Production (HTML, CSS, JavaScript)
 - Video Editing (CapCut, Photoshop)
 
 ## Languages I Speak:
@@ -112,18 +113,23 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 </div>
 </div>
 
-## Patents 
----
-- Jingquan Hong, `Bowen Hao`, Hemel Sun, Qian Yang, Benben Ren, Jinhong Chang, Qidong Sun, Jiangtao Zhao. A Type of Driven Steering Wheel. [[Acceptance Notice]](recources/patent/CN2255429_Application.pdf) [[Application Document]](recources/patent/document.pdf)
+### Patents
+<div class='paper-box'><div class='paper-box-image'><div><img src='recources/patent/patent.png' alt="Patent" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Jingquan Hong, `Bowen Hao`, Hemei Sun, Qian Yang, Benben Ren, Jinhong Chang, Qidong Sun, Jiangtao Zhao. A Driving Steering Wheel. [[Acceptance Notice]](recources/patent/CN2255429_Application.pdf) [[Application Document]](recources/patent/document.pdf)
+
+</div>
+</div>
 
 ---
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work and Internship Experience
-- *2025.09.01 - 2025.12.01*, Xbotics Embodied Intelligence Community, Hangzhou [[Download Internship Certificate]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[Community Official Website]](https://xbotics-embodied.site/)
-- *2025.07.01 - 2025.07.30*, Shenzhen Innovation Academy, Shenzhen [[Download Internship Certificate]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
-- *2024.10.01 - 2025.01.20*, Chongqing Chenzhiyue Technology Co., Ltd. (Mingyuehu International Smart Industrial Innovation Base), Chongqing [[Download Internship Certificate]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[Product Introduction]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[Product Link]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)
+- *2025.09.01 - 2025.12.01*, Xbotics Embodied Intelligence Community, Hangzhou [[Internship Certificate]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[Community Official Website]](https://xbotics-embodied.site/)
+- *2025.07.01 - 2025.07.30*, Shenzhen Innovation Academy, Shenzhen [[Internship Certificate]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
+- *2024.10.01 - 2025.01.20*, Chongqing Chenzhiyue Technology Co., Ltd. (Mingyuehu International Smart Industrial Innovation Base), Chongqing [[Internship Certificate]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[Product Introduction]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[Product Link]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)
 
 ---
 
