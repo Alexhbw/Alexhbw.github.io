@@ -20,7 +20,7 @@ Hello 👋! I am Hao Bowen, a junior student from Suzhou, Jiangsu Province, stud
 
 Since enrollment, I have accumulated 202 hours of volunteer service, actively participated in technological innovation and social practice. I led teams to receive `national-level excellent project completion` in undergraduate innovation and entrepreneurship projects, `served as a student teaching assistant for four courses`, participated in `two summer social practices` and `three internships`. I have interned at Shenzhen Innovation Academy, Mingyuehu Innovation and Industrial Base, and Xbotics Embodied Intelligence Community. I excel in both academic performance and work ability.
 
-Currently researching redundant robotic arm kinematics and Deep Reinforcement Learning at Chongqing University's Embodied Intelligence Laboratory. The "Chanpao Breathing" team, which I am a core member of, has passed the `RMB 100,000 staged funding approval` from Mingyuehu International Smart Industrial Innovation Base. I will participate in one semester of exchange learning at `Singapore University of Technology and Design` starting in September 2026 [[Study Plan ]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e8%8b%b1%e6%96%87%e7%89%88%ef%bc%89.pdf).
+Currently researching redundant robotic arm kinematics and Deep Reinforcement Learning at Chongqing University's Embodied Intelligence Laboratory. The "Chanpao Breathing" team, which I am a core member of, has passed the `RMB 100,000 staged funding approval` from Mingyuehu International Smart Industrial Innovation Base. I will participate in one semester of exchange learning at `Singapore University of Technology and Design` starting in September 2026 [[Certificate of State Sponsored Overseas Study]](recources/project/certificate.pdf) [[Study Plan ]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e8%8b%b1%e6%96%87%e7%89%88%ef%bc%89.pdf).
 
 ## My Personal Skills Include:
 - Mechanical Modeling (Fusion360, Solidworks, Machining, Assembly, etc.)
@@ -103,7 +103,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 # 📝 Publications and Patents
 
 ### Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCEIC 2025</div><img src='/images/sensors2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Published Paper</div><img src='/images/sensors2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### English
@@ -237,7 +237,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 
 **Main Responsibilities**:
 - **Kinematics Algorithm**: Purified and restructured KDL robotic arm kinematics library, analyzed core algorithms
-- **Hardware-in-Loop Simulation**: The self-developed kinematics library is used to realize direct control of the ROS virtual manipulator by STM32
+- **Hardware-in-Loop Simulation**: The self-developed kinematics library is used to realize direct control of the Rviz virtual manipulator by STM32
 - **Kinematics Library Performance Testing**: 
 
   ①Used Matlab to fit target trajectory and actual end-effector trajectory to verify kinematic solving accuracy; 

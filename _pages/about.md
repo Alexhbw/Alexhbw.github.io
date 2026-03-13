@@ -22,7 +22,7 @@ redirect_from:
 
 入学以来，累计志愿时长达到202个小时，积极参与科技创新与社会实践，在大学生创新创业项目中带领团队获得`国家级优秀结项`，担任过`四门课程的学生助教`，参与过`两段暑期社会实践`，并曾在深圳科创学院、明月湖科创产业基地、Xbotics具身智能社区中有过`三段实习`，学习成绩与工作能力兼优。
 
-目前我在重庆大学具身智能实验室研究冗余机械臂运动学与深度强化学习；我担任核心成员的 畅跑呼吸团队 已通过 明月湖国际智能产业科创基地 的`10万元阶段立项`；我将于2026年9月前往 `新加坡科技设计大学` 参与一学期的交换学习 [[学习计划]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e4%b8%ad%e6%96%87%e7%89%88%ef%bc%89.pdf)。 
+目前我在重庆大学具身智能实验室研究冗余机械臂运动学与深度强化学习；我担任核心成员的 畅跑呼吸团队 已通过 明月湖国际智能产业科创基地 的`10万元阶段立项`；我将于2026年9月前往 `新加坡科技设计大学` 参与一学期的交换学习 [[国家公派出国留学证明]](recources/project/certificate.pdf) [[学习计划]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e4%b8%ad%e6%96%87%e7%89%88%ef%bc%89.pdf)。 
 
 
 
@@ -106,7 +106,7 @@ redirect_from:
 
 # 📝 论文专利
 ### 论文
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCEIC 2025</div><img src='/images/sensors2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE见刊论文</div><img src='/images/sensors2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### 英文
@@ -259,7 +259,7 @@ redirect_from:
 
 **主要职责**：
 - **运动学算法**：提纯与重构KDL机械臂运动学库，拆解核心算法
-- **硬件在环仿真**：使用独立开发的运动学库实现STM32直接控制ROS虚拟机械臂
+- **硬件在环仿真**：使用独立开发的运动学库实现STM32直接控制Rviz虚拟机械臂
 - **运动学库性能测试**：
 
   ①使用Matlab拟合机械臂末端的目标轨迹与真实轨迹从而验证运动学解算精度
