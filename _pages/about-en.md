@@ -16,7 +16,7 @@ author: en
 <span class='anchor' id='about-me'></span>
 
 # 📖 About Me
-Hello 👋! I am Hao Bowen, a junior student from Suzhou, Jiangsu Province, studying at Chongqing University's National Excellence Engineer Academy, Class 2023 Mingyue Innovation Lab, a probationary member of the CCP, and an excellent student at Chongqing University. My comprehensive evaluation ranking is 5th in grade with a total GPA of `3.57 (87.04/100)`; I have received `6 national-level awards`, `9 provincial-level awards`, and `13 school-level awards` in two years, and obtained 3 times of second-class comprehensive scholarships. Currently serving as Vice President of the Science and Technology Association of the National Excellence Engineer Academy and a teaching assistant for the "Human Factors Engineering" course for the 2024-level Mingyue Innovation Lab.
+Hello 👋! I am Hao Bowen, a junior student from Suzhou, Jiangsu Province, studying at Chongqing University's National Excellence Engineer Academy, Class 2023 Mingyue Innovation Lab, a probationary member of the CCP, and an excellent student at Chongqing University. My comprehensive evaluation ranking is 2nd in grade with a total GPA of `3.57 (87.04/100)`; I have received `6 national-level awards`, `9 provincial-level awards`, and `13 school-level awards` in two years, and obtained 3 times of second-class comprehensive scholarships. Currently serving as Vice President of the Science and Technology Association of the National Excellence Engineer Academy and a teaching assistant for the "Human Factors Engineering" course for the 2024-level Mingyue Innovation Lab.
 
 Since enrollment, I have accumulated 202 hours of volunteer service, actively participated in technological innovation and social practice. I led teams to receive `national-level excellent project completion` in undergraduate innovation and entrepreneurship projects, `served as a student teaching assistant for four courses`, participated in `two summer social practices` and `three internships`. I have interned at Shenzhen Innovation Academy, Mingyuehu Innovation and Industrial Base, and Xbotics Embodied Intelligence Community. I excel in both academic performance and work ability.
 
@@ -85,7 +85,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - *2025.07* Chongqing University `Outstanding Teaching Assistant Award`
 - *2025.03* Chongqing University Excellent Student Comprehensive Quality Evaluation `Second-class Scholarship`
 - *2025.09* Chongqing University Excellent Student Comprehensive Quality Evaluation `Second-class Scholarship`
-- *2026.03* Chongqing University Excellent Student Comprehensive Quality Evaluation `Second-class Scholarship`
+- *2026.03* Chongqing University Excellent Student Comprehensive Quality Evaluation `First-class Scholarship`
 - ...
 
 ### Other Awards
