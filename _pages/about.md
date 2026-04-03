@@ -233,7 +233,7 @@ redirect_from:
 - **机械设计**：独立完成了轮椅机器人的整体机械结构与局部模块的设计与建模
 
 **项目成果**：
-- 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项` [[证明]](recources/project/wheelchair/%e5%9b%bd%e5%b8%82%e5%88%9b%e7%bb%93%e9%a2%98%e6%88%90%e6%9e%9c.xlsx) 
+- 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项` [[证书]](recources/project/wheelchair/certificate.jpg) 
 - 发表 `ICCEIC会议论文`一篇（《基于ADS1292模块的心率检测系统》） [[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[下载]](recources/paper/Heart_Rate_Detection_System_Based_on_ADS1292_Module.pdf) 
 
 **相关资料**：

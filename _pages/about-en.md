@@ -211,7 +211,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - **Mechanical Design**: Independently designed overall mechanical structure and local modules for wheelchair robot
 
 **Project Results**:
-- Received Chongqing University 2025 Second Batch University Student Entrepreneurship Training Project - `National Excellent Completion` [[Certificate]](recources/project/wheelchair/%e5%9b%bd%e5%b8%82%e5%88%9b%e7%bb%93%e9%a2%98%e6%88%90%e6%9e%9c.xlsx)
+- Received Chongqing University 2025 Second Batch University Student Entrepreneurship Training Project - `National Excellent Completion` [[Certificate]](recources/project/wheelchair/certificate.jpg)
 - Published ICCEIC conference paper on "Heart Rate Detection System Based on ADS1292 Module" [[Link]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[Download]](recources/paper/Heart_Rate_Detection_System_Based_on_ADS1292_Module.pdf)
 
 **Related Materials**:
