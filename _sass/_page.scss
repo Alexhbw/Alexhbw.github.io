@@ -434,3 +434,20 @@ hr {
   justify-content: center;
   align-items: center;
 }
+
+/* ClustrMaps Widget */
+#clustrmaps-container {
+  max-width: 400px !important;
+  margin: 20px auto !important;
+  overflow: hidden !important;
+}
+
+#clustrmaps-container > iframe {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+#clustrmaps-container > script {
+  display: block !important;
+  max-width: 100% !important;
+}
