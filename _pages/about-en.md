@@ -35,7 +35,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 
 ## Languages I Speak:
 - English Proficiency (CET-4/6)
-- IELTS (Preparing, expected test in April 2026)
+- IELTS overall score: 6.5
 - Programming: C, Python, C++, Matlab, C#
 
 <!-- <br><br> -->
