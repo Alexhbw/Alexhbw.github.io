@@ -40,7 +40,7 @@ redirect_from:
 
 ## 我的语言包括：
 - 大学生英语四级/六级
-- 雅思 6.5分
+- 雅思（学术类）：6.5分（小分 ≥ 6）
 - C、Python、C++、Matlab、C#
 
 <!-- <br><br> -->
@@ -144,6 +144,7 @@ redirect_from:
 - *2025.09.01 - 2025.12.01*, Xbotics具身智能社区, 杭州 [[实习证明]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[社区官网]](https://xbotics-embodied.site/)
 - *2025.07.01 - 2025.07.30*, 深圳科创学院, 深圳 [[实习证明]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
 - *2024.10.01 - 2025.01.20*, 重庆晨之越科技有限公司（明月湖国际智能产业基地）, 重庆 [[实习证明]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[产品介绍]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[产品链接]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)
+- *2026.02.01 - 2026.05.01*, vivo品牌重庆校园大使, 重庆 [[实习证明]](recources/practise/vivo.jpg)
 
 <!-- <span class='anchor' id='-xshy'></span>
 
@@ -256,14 +257,10 @@ redirect_from:
 **主要职责**：
 - **运动学算法**：提纯与重构KDL机械臂运动学库，拆解与优化核心算法
 - **硬件在环仿真**：使用独立开发的运动学库实现STM32直接控制Rviz虚拟机械臂
-- **运动学库性能测试**：
-
-  ①Matlab拟合机械臂末端的目标轨迹与真实轨迹从而验证运动学解算精度
-
-  ②STM32F407内置定时器记录机械臂单次解算时间从而得出计算效率
+- **Sim2real**：结合机械臂动力学进行机械臂实物调试，实现机械臂末端的位姿控制。
 
 **项目成果**：
-- 实验室项目（推进中） 
+- 实验室项目（推进中）；计划9月前产出科研论文
 
 **相关资料**：
 [[技术文档]](recources/project/openarm/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e6%9c%ba%e6%a2%b0%e8%87%82.pdf) [[答辩]](https://www.canva.cn/design/DAG9z3NYTLE/bVYEyEEiKY2FublAuxSCPw/edit?utm_content=DAG9z3NYTLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
@@ -272,6 +269,32 @@ redirect_from:
 <div style="display: flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 100%; max-width: 300px;">
 
 <img src="/recources/pictures/openarm.png" alt="机械臂" style="max-width:250px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
+## 🎯 "畅跑呼吸"创业项目 - 明月湖科创基地创业项目
+
+**项目简介**：作为团队联合创始人与CTO开发的一款具有空气管理能力的硬件设备
+
+**主要职责**：
+- **市场调研**：通过广泛桌面调研与用户访谈寻找痛点，建立用户画像
+- **样机制作**：确定原理样机技术路线，负责结构方案的设计与硬件开发
+- **大模型开发**：为样机部署本地化轻量级大模型从而实现环境感知与数据理解
+
+**项目成果**：
+- 团队已通过明月湖科创基地的10万元阶段立项融资与国家卓越工程师学院2万元基金
+- 团队目前处于50万元融资探索期阶段
+
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+
+<img src="/recources/pictures/business.png" alt="畅跑呼吸" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>
@@ -329,31 +352,6 @@ redirect_from:
 <div style="display: flex; align-items: center; justify-content: center;">
 
 <img src="/recources/pictures/engineer.png" alt="救援机器人" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-
-</div>
-</div>
-
----
-
-<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
-  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
-
-## 🎯 "畅跑呼吸"团队项目 - 明月湖科创基地创业项目
-
-**项目简介**：作为核心成员开发的针对跑步爱好者的一款具有自动调节空气状况的硬件设备
-
-**主要职责**：
-- **市场调研**：通过广泛桌面调研与用户访谈寻找痛点，建立用户画像
-- **样机制作**：为原理样机确定技术路线，进行元器件的选型与PCB绘制
-- **大模型开发**：为样机部署本地化轻量级大模型从而实现环境感知与数据理解
-
-**项目成果**：
-- 团队已通过 明月湖科创基地 的10万元阶段立项，目前处于50万元探索期阶段
-
-</div>
-<div style="display: flex; align-items: center; justify-content: center;">
-
-<img src="/recources/pictures/business.png" alt="畅跑呼吸" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>

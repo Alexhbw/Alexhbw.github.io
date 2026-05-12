@@ -35,7 +35,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 
 ## Languages I Speak:
 - English Proficiency (CET-4/6)
-- IELTS overall score: 6.5
+- IELTS overall score (Academic): 6.5 (sub-scores ≥ 6)
 - Programming: C, Python, C++, Matlab, C#
 
 <!-- <br><br> -->
@@ -129,6 +129,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - *2025.09.01 - 2025.12.01*, Xbotics Embodied Intelligence Community, Hangzhou [[Internship Certificate]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[Community Official Website]](https://xbotics-embodied.site/)
 - *2025.07.01 - 2025.07.30*, Shenzhen Innovation Academy, Shenzhen [[Internship Certificate]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
 - *2024.10.01 - 2025.01.20*, Chongqing Chenzhiyue Technology Co., Ltd. (Mingyuehu International Smart Industrial Innovation Base), Chongqing [[Internship Certificate]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[Product Introduction]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[Product Link]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)
+- *2026.02.01 - 2026.05.01*, Vivo Brand Campus Ambassador (Chongqing), Chongqing [[Internship Certificate]](recources/practise/vivo.jpg)
 
 ---
 
@@ -236,14 +237,11 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 **Main Responsibilities**:
 - **Kinematics Algorithm**: Purification and Reconstruction of the KDL Robotic Arm Kinematics Library and Decomposition and Optimization of Core Algorithms
 - **Hardware-in-Loop Simulation**: The self-developed kinematics library is used to realize direct control of the Rviz virtual manipulator by STM32
-- **Kinematics Library Performance Testing**: 
+- **Sim2real**: Conduct physical debugging of the robotic arm based on its dynamics to achieve pose control of the end‑effector.
 
-  ①Used Matlab to fit target trajectory and actual end-effector trajectory to verify kinematic solving accuracy; 
-
-  ②Used STM32F407 timer to record single solving time to determine computational efficiency
 
 **Project Results**:
-- Ongoing laboratory project
+- Ongoing laboratory project; Plan to produce a research paper before September.
 
 **Related Materials**:
 [[Technical Document]](recources/project/openarm/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e6%9c%ba%e6%a2%b0%e8%87%82.pdf) [[Defense]](https://www.canva.cn/design/DAG9z3NYTLE/bVYEyEEiKY2FublAuxSCPw/edit?utm_content=DAG9z3NYTLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -252,6 +250,32 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 <div style="display: flex; align-items: center; justify-content: center;">
 
 <img src="/recources/pictures/openarm.png" alt="Robotic Arm" style="max-width:250px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
+## 🎯 "Changpao Breathing" Entrepreneurship Project - Mingyuehu Innovation Base Entrepreneurship Project
+
+**Project Overview**: As the co‑founder and CTO of the team, developed a hardware device with air management capabilities.
+
+**Main Responsibilities**:
+- **Market Research**: Conducted extensive desktop research and user interviews to identify pain points, established user personas
+- **Prototype Development**: Determine the technical route of the prototype, and be responsible for structural scheme design and hardware development
+- **Large Model Development**：Deploy a localized lightweight large model for the prototype to achieve environmental perception and data understanding
+
+**Project Results**:
+- The team has obtained a phase‑specific project funding of 100,000 RMB from the Mingyuehu Innovation Base and a 20,000 RMB grant from the National College of Outstanding Engineers.
+- The team is currently in the exploration stage for 500,000 RMB financing.
+
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+
+<img src="/recources/pictures/business.png" alt="Chanpao Breathing" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>
@@ -309,31 +333,6 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 <div style="display: flex; align-items: center; justify-content: center;">
 
 <img src="/recources/pictures/engineer.png" alt="Rescue Robot" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-
-</div>
-</div>
-
----
-
-<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
-  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
-
-## 🎯 "Changpao Breathing" Team Project - Mingyuehu Innovation Base Entrepreneurship Project
-
-**Project Overview**: As a core member, developed a hardware device for running enthusiasts that automatically adjusts air quality
-
-**Main Responsibilities**:
-- **Market Research**: Conducted extensive desktop research and user interviews to identify pain points, established user personas
-- **Prototype Development**: Determined technical roadmap for prototype, conducted component selection and PCB design
-- **Large Model Development**：Deploy a localized lightweight large model for the prototype to achieve environmental perception and data understanding
-
-**Project Results**:
-- Team passed RMB 100,000 staged funding approval from Mingyuehu Innovation Base, currently in RMB 500,000 exploration phase
-
-</div>
-<div style="display: flex; align-items: center; justify-content: center;">
-
-<img src="/recources/pictures/business.png" alt="Chanpao Breathing" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>
