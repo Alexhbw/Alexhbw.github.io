@@ -269,8 +269,8 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - **Large Model Development**：Deploy a localized lightweight large model for the prototype to achieve environmental perception and data understanding
 
 **Project Results**:
-- The team has obtained a phase‑specific project funding of 100,000 RMB from the Mingyuehu Innovation Base and a 20,000 RMB grant from the National College of Outstanding Engineers.
-- The team is currently in the exploration stage for 500,000 RMB financing.
+- The team has obtained `a phase‑specific project funding of 100,000 RMB` from the Mingyuehu Innovation Base and `a 20,000 RMB grant` from the National College of Outstanding Engineers.
+- The team is currently in the `exploration stage for 500,000 RMB financing`.
 
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -362,6 +362,31 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 <div style="display: flex; align-items: center; justify-content: center;">
 
 <img src="/recources/pictures/toothbrush.jpg" alt="Electric Toothbrush" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
+## 📊 Anymal‑C Quadruped Robot Navigation Task Based on Motrixlab – A Reinforcement Learning Simulation Project
+
+**Project Overview**：A reinforcement learning‑based autonomous navigation task developed for the ANYmal‑C quadruped robot on the Motrixlab simulation platform, utilizing the PyTorch framework with CUDA GPU acceleration, and achieving standardized environment management and deployment via UV and Docker.
+
+**Main Responsibilities**：
+- **Simulation Environment Development**：Implement the ANYmal‑C navigation environment following Gym standards, including state observation construction, reward function design, and termination condition definition.
+- **Robot Modeling and Parameter Tuning**：Configure MuJoCo XML model files, define parameters for joints, actuators and sensors, and tune PD control gains of motors.
+- **Reinforcement Learning Algorithm Implementation**：Implement deep reinforcement learning algorithms such as PPO based on JAX, and tune core hyperparameters including learning rate.
+
+**Related Materials**：
+[[Technical Report]](https://my.feishu.cn/wiki/JPTIwwXnRiZMqJkzjUJckp2tn7f?from=from_copylink)
+
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+
+<img src="/recources/pictures/MotrixLab.png" alt="MotrixLab" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>

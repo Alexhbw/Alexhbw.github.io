@@ -288,8 +288,8 @@ redirect_from:
 - **大模型开发**：为样机部署本地化轻量级大模型从而实现环境感知与数据理解
 
 **项目成果**：
-- 团队已通过明月湖科创基地的10万元阶段立项融资与国家卓越工程师学院2万元基金
-- 团队目前处于50万元融资探索期阶段
+- 团队已通过明月湖科创基地的`10万元阶段立项融资`与国家卓越工程师学院`2万元基金`
+- 团队目前处于`50万元融资探索期`阶段
 
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -381,6 +381,31 @@ redirect_from:
 <div style="display: flex; align-items: center; justify-content: center;">
 
 <img src="/recources/pictures/toothbrush.jpg" alt="电动牙刷" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
+## 📊 基于Motrixlab的ANYmal C四足机器人导航任务 - 强化学习仿真项目
+
+**项目简介**：基于Motrixlab仿真平台，针对ANYmal C四足机器人开发的强化学习自主导航任务，采用 PyTorch 框架与 CUDA GPU 加速，通过 UV 和 Docker 实现标准化环境管理与部署。
+
+**主要职责**：
+- **仿真环境开发**：遵循Gym标准实现ANYmal C导航环境，完成状态观测构建、奖励函数设计与终止条件定义
+- **机器人建模与参数调优**：配置MuJoCo XML模型文件，定义关节、执行器与传感器参数，调试电机 PD 控制增益
+- **强化学习算法实现**：基于 JAX 实现 PPO 等深度强化学习算法，调优学习率等核心超参数
+
+**相关资料**：
+[[技术文档]](https://my.feishu.cn/wiki/JPTIwwXnRiZMqJkzjUJckp2tn7f?from=from_copylink)
+
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+
+<img src="/recources/pictures/MotrixLab.png" alt="MotrixLab" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>
