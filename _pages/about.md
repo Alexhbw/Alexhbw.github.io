@@ -392,7 +392,7 @@ redirect_from:
 
 ## 📊 基于Motrixlab的ANYmal C四足机器人导航任务 - 强化学习仿真项目
 
-**项目简介**：基于Motrixlab仿真平台，针对ANYmal C四足机器人开发的强化学习自主导航任务，采用 PyTorch 框架与 CUDA GPU 加速，通过 UV 和 Docker 实现标准化环境管理与部署。
+**项目简介**：基于Motrixlab仿真平台，针对ANYmal C四足机器人开发的强化学习自主导航任务，采用 JAX 框架与 CUDA GPU 加速，通过 UV 和 Docker 实现标准化环境管理与部署。
 
 **主要职责**：
 - **仿真环境开发**：遵循Gym标准实现ANYmal C导航环境，完成状态观测构建、奖励函数设计与终止条件定义

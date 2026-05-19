@@ -373,7 +373,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 
 ## 📊 Anymal‑C Quadruped Robot Navigation Task Based on Motrixlab – A Reinforcement Learning Simulation Project
 
-**Project Overview**：A reinforcement learning‑based autonomous navigation task developed for the ANYmal‑C quadruped robot on the Motrixlab simulation platform, utilizing the PyTorch framework with CUDA GPU acceleration, and achieving standardized environment management and deployment via UV and Docker.
+**Project Overview**：A reinforcement learning‑based autonomous navigation task developed for the ANYmal‑C quadruped robot on the Motrixlab simulation platform, utilizing the JAX framework with CUDA GPU acceleration, and achieving standardized environment management and deployment via UV and Docker.
 
 **Main Responsibilities**：
 - **Simulation Environment Development**：Implement the ANYmal‑C navigation environment following Gym standards, including state observation construction, reward function design, and termination condition definition.
