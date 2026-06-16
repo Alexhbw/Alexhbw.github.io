@@ -62,6 +62,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 ### Competition Awards
 - *2025.10* China Robot Competition ROBOCUP Agricultural Irrigation Group National Finals  `National Second Prize`
 - *2024.07* 2024 National University Robot Competition ROBOCON  `National Third Prize`
+- *2026.01* Chongqing University 2025 Second Batch University Student Entrepreneurship Training Project - `National Excellent Completion`
 - *2025.10* China Robot Competition ROBOCUP Tourism Treasure Hunt Group National Finals  `National Third Prize`
 - *2025.10* China Robot Competition ROBOCUP Tourism Adventure Group National Finals  `National Third Prize`
 - *2025.03* 2025 Robomaster Mech Combat Robot Competition Southwest Regional Division  `National First Prize`
@@ -88,7 +89,6 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - ...
 
 ### Other Awards
-- *2026.01* Chongqing University 2025 Second Batch University Student Entrepreneurship Training Project - `National Excellent Completion`
 - *2024.06* University Student Scientific Research Training Program (SRTP) - `Good Completion`
 - *2025.07* Shenzhen Innovation Academy - `Star Teaching Assistant`
 - *2024.01* Ningbo XPotPark Smart Research Institute Winter Camp - `Excellent Camper`
@@ -126,10 +126,27 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work and Internship Experience
-- *2025.09.01 - 2025.12.01*, Xbotics Embodied Intelligence Community, Hangzhou [[Internship Certificate]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[Community Official Website]](https://xbotics-embodied.site/)
-- *2025.07.01 - 2025.07.30*, Shenzhen Innovation Academy, Shenzhen [[Internship Certificate]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
-- *2024.10.01 - 2025.01.20*, Chongqing Chenzhiyue Technology Co., Ltd. (Mingyuehu International Smart Industrial Innovation Base), Chongqing [[Internship Certificate]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[Product Introduction]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[Product Link]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)
-- *2026.02.01 - 2026.05.01*, Vivo Brand Campus Ambassador (Chongqing), Chongqing [[Internship Certificate]](recources/practise/vivo.jpg)
+- *2026.07.06 - 2026.08.14*, **The Chinese University of Hong Kong, Shenzhen** — Shenzhen Institute of Artificial Intelligence and Robotics, Shenzhen  
+  Position: Research Intern  
+  Main Work: Medical robotics and magnetically-controlled micro-nano robot swarm applications
+
+- *2025.09.01 - 2025.12.01*, **Xbotics Embodied Intelligence Community**, Hangzhou [[Internship Certificate]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[Community Official Website]](https://xbotics-embodied.site/)  
+  Position: Embodied Intelligence Intern  
+  Main Work: Embodied intelligence fundamental theory and technical framework, algorithm and engineering practice project training, completed a robotic arm project
+
+- *2025.07.01 - 2025.07.30*, **Shenzhen Innovation Academy**, Shenzhen [[Internship Certificate]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)  
+  Position: Innovation Camp Teaching Assistant  
+  Main Work: Participated in innovation and entrepreneurship bootcamp, completed rapid prototyping and business roadshow presentations
+
+- *2024.10.01 - 2025.01.20*, **Chongqing Chenzhiyue Technology Co., Ltd.** (Mingyuehu International Smart Industrial Innovation Base), Chongqing [[Internship Certificate]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[Product Introduction]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[Product Link]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)  
+  Position: Mechanical and Embedded Intern  
+  Main Work: Responsible for embedded function module testing and optimization, assisted the team in project delivery and acceptance
+
+- *2024.01.22 - 2024.02.03*, **XBotPark Ningbo Smart Research Institute**, Ningbo [[Internship Certificate]](recources/practise/Ningbo.jpg)  
+  Position: Winter Camp Participant  
+  Main Work: Comprehensively learned product development and commercialization process, completed prototype fabrication and roadshow
+
+- *2026.02.01 - 2026.05.01*, **Vivo Brand Campus Ambassador (Chongqing)**, Chongqing [[Internship Certificate]](recources/practise/vivo.jpg)
 
 ---
 
@@ -236,15 +253,15 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 
 **Main Responsibilities**:
 - **Kinematics Algorithm**: Purification and Reconstruction of the KDL Robotic Arm Kinematics Library and Decomposition and Optimization of Core Algorithms
-- **Hardware-in-Loop Simulation**: The self-developed kinematics library is used to realize direct control of the Rviz virtual manipulator by STM32
-- **Sim2real**: Conduct physical debugging of the robotic arm based on its dynamics to achieve pose control of the end‑effector.
+- **Hardware-in-Loop Simulation**: Implemented closed-loop simulation of the manipulator using a self-developed kinematics library
+- **Sim2real**: Conduct physical debugging of the robotic arm based on its dynamics to achieve smooth trajectory planning for the manipulator end-effector
 
 
 **Project Results**:
 - Ongoing laboratory project; Plan to produce a research paper before September.
 
 **Related Materials**:
-[[Technical Document]](recources/project/openarm/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e6%9c%ba%e6%a2%b0%e8%87%82.pdf) [[Defense]](https://www.canva.cn/design/DAG9z3NYTLE/bVYEyEEiKY2FublAuxSCPw/edit?utm_content=DAG9z3NYTLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[[Technical Document]](recources/project/openarm/OpenArm.pdf) [[Defense]](recources/project/openarm/OpenArm.pptx)
 
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">

@@ -64,6 +64,7 @@ redirect_from:
 ### 竞赛类
 - *2025.10* 获得 2025年中国机器人大赛ROBOCUP农业灌溉组全国赛 `国家二等奖`  
 - *2024.07* 获得 2024年全国大学生机器人大赛ROBOCON `国家三等奖`
+- *2026.01* 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项`
 - *2025.10* 获得 2025年中国机器人大赛ROBOCUP旅游寻宝组全国赛 `国家三等奖`  
 - *2025.10* 获得 2025年中国机器人大赛ROBOCUP旅游探险组全国赛 `国家三等奖`  
 - *2025.03* 获得 2025年Robomaster机甲大师机器人竞技赛西南赛区 `国家一等奖`
@@ -90,7 +91,6 @@ redirect_from:
 - ...
 
 ### 其它
-- *2026.01* 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项`
 - *2024.06* 获得 大学生科研训练计划（SRTP） `良好结项`
 - *2025.07* 获得 深圳科创学院 `明星助教`
 - *2024.01* 获得 宁波XPotPark智能研究院冬令营 `优秀营员`
@@ -141,10 +141,27 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2025.09.01 - 2025.12.01*, Xbotics具身智能社区, 杭州 [[实习证明]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[社区官网]](https://xbotics-embodied.site/)
-- *2025.07.01 - 2025.07.30*, 深圳科创学院, 深圳 [[实习证明]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
-- *2024.10.01 - 2025.01.20*, 重庆晨之越科技有限公司（明月湖国际智能产业基地）, 重庆 [[实习证明]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[产品介绍]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[产品链接]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)
-- *2026.02.01 - 2026.05.01*, vivo品牌重庆校园大使, 重庆 [[实习证明]](recources/practise/vivo.jpg)
+- *2026.07.06 - 2026.08.14*, **香港中文大学（深圳）**，深圳  
+  职位：深圳市人工智能与机器人研究院实习生  
+  主要工作：医疗机器人与磁控微纳机器人集群应用研究
+
+- *2025.09.01 - 2025.12.01*, **Xbotics具身智能社区**，杭州 [[实习证明]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[社区官网]](https://xbotics-embodied.site/)  
+  职位：具身智能实习生  
+  主要工作：具身智能基础理论与技术框架学习，算法与工程实践项目训练，完成机械臂项目
+
+- *2025.07.01 - 2025.07.30*, **深圳科创学院**，深圳 [[实习证明]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)  
+  职位：科创营助教  
+  主要工作：参与创新创业集训营，完成快速原型开发与商业路演展示
+
+- *2024.10.01 - 2025.01.20*, **重庆晨之越科技有限公司**（明月湖国际智能产业基地），重庆 [[实习证明]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[产品介绍]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[产品链接]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)  
+  职位：机械与嵌入式实习生  
+  主要工作：负责嵌入式功能模块测试与优化，协助团队完成项目交付与验收
+
+- *2024.01.22 - 2024.02.03*, **XBotPark宁波智能技术研究院**，宁波 [[实习证明]](recources/practise/Ningbo.jpg)  
+  职位：冬令营营员  
+  主要工作：完整学习产品开发与商业化流程，完成样机制作与路演
+
+- *2026.02.01 - 2026.05.01*, **vivo品牌重庆校园大使**，重庆 [[实习证明]](recources/practise/vivo.jpg)
 
 <!-- <span class='anchor' id='-xshy'></span>
 
@@ -256,14 +273,14 @@ redirect_from:
 
 **主要职责**：
 - **运动学算法**：提纯与重构KDL机械臂运动学库，拆解与优化核心算法
-- **硬件在环仿真**：使用独立开发的运动学库实现STM32直接控制Rviz虚拟机械臂
-- **Sim2real**：结合机械臂动力学进行机械臂实物调试，实现机械臂末端的位姿控制。
+- **硬件在环仿真**：使用独立开发的运动学库实现的机械臂闭环仿真
+- **Sim2real**：结合机械臂动力学进行机械臂实物调试，实现机械臂末端的平滑轨迹规划
 
 **项目成果**：
 - 实验室项目（推进中）；计划9月前产出科研论文
 
 **相关资料**：
-[[技术文档]](recources/project/openarm/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e6%9c%ba%e6%a2%b0%e8%87%82.pdf) [[答辩]](https://www.canva.cn/design/DAG9z3NYTLE/bVYEyEEiKY2FublAuxSCPw/edit?utm_content=DAG9z3NYTLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+[[技术文档]](recources/project/openarm/OpenArm.pdf) [[答辩]](recources/project/openarm/OpenArm.pptx) 
 
 </div>
 <div style="display: flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 100%; max-width: 300px;">
