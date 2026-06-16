@@ -61,7 +61,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 
 ### Competition Awards
 - *2025.10* China Robot Competition ROBOCUP Agricultural Irrigation Group National Finals  `National Second Prize`
-- *2024.02* 2024 National University Robot Competition ROBOCON  `National Third Prize`
+- *2024.07* 2024 National University Robot Competition ROBOCON  `National Third Prize`
 - *2025.10* China Robot Competition ROBOCUP Tourism Treasure Hunt Group National Finals  `National Third Prize`
 - *2025.10* China Robot Competition ROBOCUP Tourism Adventure Group National Finals  `National Third Prize`
 - *2025.03* 2025 Robomaster Mech Combat Robot Competition Southwest Regional Division  `National First Prize`
