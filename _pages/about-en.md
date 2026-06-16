@@ -73,9 +73,9 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - *2025.08* 2025 "TI Cup" National University Student Electronic Design Competition Chongqing Division  `Provincial First Prize`
 - *2024.11* 2024 Chongqing University Student Engineering Practice and Innovation Ability Competition Smart Rescue  `Provincial Second Prize`
 - *2025.08* 2025 China Robot Competition Special Events Drone Challenge  `Provincial Third Prize`
-- *2024.11* 2024 Chongqing University Student Innovation Method (TRIZ) Competition  `Provincial Third Prize`
+- *2024.12* 2024 Chongqing University Student Innovation Method (TRIZ) Competition  `Provincial Third Prize`
 - *2024.11* 2024 Chinese University Student Information Literacy Competition Chongqing Division  `Provincial Excellence Award`
-- *2024.10* 2024 Chongqing University VEX Robot Competition  `School First Prize`
+- *2024.05* 2024 Chongqing University VEX Robot Competition  `School First Prize`
 - *2024.11* 2024 Chongqing University Physics Academic Competition (CUPT)  `School First Prize`
 - *2025.05* 2025 Chongqing University Intelligent Car Competition Miniature Electromagnetic Group  `School Second Prize`
 - ...
