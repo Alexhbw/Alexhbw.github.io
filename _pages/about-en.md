@@ -65,8 +65,8 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - *2026.01* Chongqing University 2025 Second Batch University Student Entrepreneurship Training Project - `National Excellent Completion`
 - *2025.10* China Robot Competition ROBOCUP Tourism Treasure Hunt Group National Finals  `National Third Prize`
 - *2025.10* China Robot Competition ROBOCUP Tourism Adventure Group National Finals  `National Third Prize`
-- *2025.03* 2025 Robomaster Mech Combat Robot Competition Southwest Regional Division  `National First Prize`
-- *2025.03* 2025 Robomaster Alliance 3V3 Combat  `Provincial Third Prize`
+- *2025.05* 2025 RoboMaster University League Tournament, Hero Robot Group Robotics Competition Award, 3V3 Match  `National First Prize`
+- *2025.04* 2025 Robomaster Alliance 3V3 Combat  `Provincial Third Prize`
 - *2025.07* 2025 China Robot Competition Chongqing Regional Agricultural Irrigation Group  `Provincial Champion`
 - *2025.07* 2025 China Robot Competition Chongqing Regional Tourism Adventure Group  `Provincial Champion`
 - *2025.07* 2025 China Robot Competition Chongqing Regional Tourism Treasure Hunt Group  `Provincial Champion`
