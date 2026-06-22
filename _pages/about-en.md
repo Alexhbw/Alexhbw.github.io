@@ -78,6 +78,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - *2024.05* 2024 Chongqing University VEX Robot Competition  `School First Prize`
 - *2024.11* 2024 Chongqing University Physics Academic Competition (CUPT)  `School First Prize`
 - *2025.05* 2025 Chongqing University Intelligent Car Competition Miniature Electromagnetic Group  `School Second Prize`
+- *2025.05* 2025 Chongqing University "Dream Soaring in the Sky" Aircraft Design Innovation Competition  `School First Prize`
 - ...
 
 ### Student Leadership Awards
