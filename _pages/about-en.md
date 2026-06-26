@@ -127,7 +127,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work and Internship Experience
-- *2026.07.06 - 2026.08.14*, **The Chinese University of Hong Kong, Shenzhen** — Shenzhen Institute of Artificial Intelligence and Robotics, Shenzhen  
+- *2026.07.06 - 2026.08.14*, **The Chinese University of Hong Kong, Shenzhen** — Shenzhen Institute of Artificial Intelligence and Robotics (AIRS), Shenzhen  
   Position: Research Intern  
   Main Work: Medical robotics and magnetically-controlled micro-nano robot swarm applications
 
