@@ -82,7 +82,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - ...
 
 ### Student Leadership Awards
-- *2025.11* Chongqing University `Excellent Student`
+- *2025.11* Chongqing University `Merit Student`
 - *2025.07* Chongqing University `Outstanding Teaching Assistant Award`
 - *2025.03* Chongqing University Excellent Student Comprehensive Quality Evaluation `Second-class Scholarship`
 - *2025.09* Chongqing University Excellent Student Comprehensive Quality Evaluation `Second-class Scholarship`
