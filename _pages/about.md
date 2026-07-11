@@ -458,6 +458,32 @@ redirect_from:
 <div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
+## 🚁 基于Crazyflie 2.1的无人机安全飞行控制与形式化验证 - 工程数值分析 课程项目
+
+**项目简介**：基于微型无人机平台开发的ODE初值问题数值解法稳定域分析与形式化验证系统，融合了多求解器数值解算、在线实时安全控制与可达性分析几何验证。  
+
+**主要职责**：
+- **多物理场建模与数值解算**：推导完整的12维非线性刚体动力学模型；基于C++与Eigen3高性能实现5种经典显/隐式常微分方程（ODE）数值求解器，并通过函数指针实现零分支开销的动态调度。
+- **集群编队与势场避障开发**：将系统扩展至N×12维多智能体向量化架构，实现多机“呼吸圆环”动态立体编队协同；开发包含平滑三次方势场、速度阻尼制动与切向绕行引导的四层主动避障算法。
+- **实时监视与自适应闭环控制**：构建运行时四维安全监视器并嵌入轻量化在线区间可达集近似分析模块，实现多维安全条件的每步形式化状态检查与最坏情况碰撞预警；设计在线自适应安全控制器，构建“步长减半、切换更保守求解器、紧急关机”的三级递进式主动保护闭环机制。
+- **反例挖掘与形式化确界证明**：搭建全因子参数扫描自动实验框架与临界步长二分搜索算法，定量挖掘安全边界反例；利用CORA将底层数值截断误差映射为系统有界扰动输入，通过相对状态空间投影几何证明多机相对误差管道的绝对安全确界。
+
+**相关资料**：
+[[技术文档]](recources/project/crazyflie/report.pdf)[[PPT]](https://www.canva.cn/design/DAHIEOinb0w/QmjbCJq-0J5sLvi4VwgRLQ/edit) 
+
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+
+<img src="/recources/pictures/crazyflie.png" alt="Crazyflie 2.1" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
 ## ⚙️ 斯特林发动机设计与制造 - 工程设计 课程项目
 
 **项目简介**：从0到1实现的γ型斯特林发动机的完整设计与仿真  

@@ -460,3 +460,27 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 </div>
 
 ---
+
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
+## 🚁 UAV Safe Flight Control and Formal Verification Based on Crazyflie 2.1 – Engineering Numerical Analysis Course Project
+
+**Project Overview**: A stability region analysis and formal verification system for ODE initial value problem numerical methods developed on a micro-UAV platform, integrating multi-solver numerical computation, online real-time safety control, and reachability analysis with geometric verification.
+
+**Main Responsibilities**:
+- **Multi-Physics Modeling and Numerical Computation**: Derived a complete 12-dimensional nonlinear rigid-body dynamics model; implemented 5 classical explicit/implicit ODE numerical solvers using C++ and Eigen3 with high performance, achieving zero-branch-overhead dynamic dispatch via function pointers.
+- **Swarm Formation and Potential Field Obstacle Avoidance**: Extended the system to an N×12-dimensional multi-agent vectorized architecture, realizing multi-UAV "breathing ring" dynamic 3D formation coordination; developed a four-layer active obstacle avoidance algorithm incorporating smooth cubic potential fields, velocity damping braking, and tangential detour guidance.
+- **Real-Time Monitoring and Adaptive Closed-Loop Control**: Built a runtime four-dimensional safety monitor with an embedded lightweight online interval reachable set approximation analysis module, enabling per-step formal state checking of multi-dimensional safety conditions and worst-case collision warning; designed an online adaptive safety controller with a three-tier progressive active protection closed-loop mechanism: "step halving, switching to a more conservative solver, emergency shutdown."
+- **Counterexample Mining and Formal Boundedness Proof**: Built an automated full-factorial parameter sweep experimental framework with a critical step-size binary search algorithm to quantitatively mine safety boundary counterexamples; leveraged CORA to map low-level numerical truncation errors to bounded system disturbance inputs, and proved the absolute safety bound of multi-UAV relative error tubes through relative state-space projection geometry.
+
+**Related Materials**:
+[[Technical Document]](recources/project/crazyflie/report.pdf) [[PPT]](https://www.canva.cn/design/DAHIEOinb0w/QmjbCJq-0J5sLvi4VwgRLQ/edit)
+
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+
+<img src="/recources/pictures/crazyflie.png" alt="Crazyflie 2.1" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+
+</div>
+</div>
