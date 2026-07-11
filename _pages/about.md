@@ -418,7 +418,7 @@ redirect_from:
 - **强化学习算法实现**：基于 JAX 实现 PPO 等深度强化学习算法，调优学习率等核心超参数
 
 **相关资料**：
-[[技术文档]](https://my.feishu.cn/wiki/JPTIwwXnRiZMqJkzjUJckp2tn7f?from=from_copylink)
+[[技术文档1]](recources/project/MotrixLab/AnymalC.pdf)[[技术文档2]](recources/project/MotrixLab/MotrixArena.pdf)
 
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
