@@ -399,7 +399,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - **Reinforcement Learning Algorithm Implementation**：Implement deep reinforcement learning algorithms such as PPO based on JAX, and tune core hyperparameters including learning rate.
 
 **Related Materials**：
-[[Technical Report]](https://my.feishu.cn/wiki/JPTIwwXnRiZMqJkzjUJckp2tn7f?from=from_copylink)
+[[Technical Report 1]](recources/project/MotrixLab/AnymalC.pdf)[[Technical Report 2]](recources/project/MotrixLab/MotrixArena.pdf)
 
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
