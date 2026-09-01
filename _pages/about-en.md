@@ -127,9 +127,9 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work and Internship Experience
-- *2026.07.06 - 2026.08.14*, **The Chinese University of Hong Kong, Shenzhen** — Shenzhen Institute of Artificial Intelligence and Robotics (AIRS), Shenzhen  
-  Position: Research Intern  
-  Main Work: Medical robotics and magnetically-controlled micro-nano robot swarm applications
+- *2026.07.06 - 2026.08.15*, **The Chinese University of Hong Kong, Shenzhen**, Shenzhen  
+  Position: Summer Research Intern at the Intelligent Micro-Robot Laboratory  
+  Main Work: Research on medical robots and magnetically-controlled micro-nano robot swarm applications
 
 - *2025.09.01 - 2025.12.01*, **Xbotics Embodied Intelligence Community**, Hangzhou [[Internship Certificate]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[Community Official Website]](https://xbotics-embodied.site/)  
   Position: Embodied Intelligence Intern  
@@ -277,18 +277,18 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 <div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
-## 🎯 "Changpao Breathing" Entrepreneurship Project - Mingyuehu Innovation Base Entrepreneurship Project
+## 🎯 "High-Altitude Hiking Smart Oxygen Supply Device" Entrepreneurship Project - Mingyuehu Innovation Base Entrepreneurship Project
 
-**Project Overview**: As the co‑founder and CTO of the team, developed a hardware device with air management capabilities.
+**Project Overview**: As the co‑founder and CTO of the team, developed a high-altitude hardware device with intelligent oxygen supply and blood pressure safeguard functions.
 
 **Main Responsibilities**:
 - **Market Research**: Conducted extensive desktop research and user interviews to identify pain points, established user personas
-- **Prototype Development**: Determine the technical route of the prototype, and be responsible for structural scheme design and hardware development
-- **Large Model Development**：Deploy a localized lightweight large model for the prototype to achieve environmental perception and data understanding
+- **Prototype Development**: Determined the technical route of the proof-of-concept prototype, and was responsible for structural scheme design and hardware development
+- **Large Model Development**: Deployed a localized lightweight large model on the prototype to achieve environmental perception and data understanding
 
 **Project Results**:
-- The team has obtained `a phase‑specific project funding of 100,000 RMB` from the Mingyuehu Innovation Base and `a 20,000 RMB grant` from the National College of Outstanding Engineers.
-- The team is currently in the `exploration stage for 500,000 RMB financing`.
+- The team has secured `RMB 500,000 in phase funding` from the Mingyuehu Innovation Base and a `RMB 20,000 grant` from the National Elite Institute of Engineering.
+- The team is currently at the `RMB 3 million angel round` stage.
 
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -466,13 +466,13 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 
 ## 🚁 UAV Safe Flight Control and Formal Verification Based on Crazyflie 2.1 – Engineering Numerical Analysis Course Project
 
-**Project Overview**: A stability region analysis and formal verification system for ODE initial value problem numerical methods developed on a micro-UAV platform, integrating multi-solver numerical computation, online real-time safety control, and reachability analysis with geometric verification.
+**Project Overview**: A stability region analysis and formal verification system for ODE initial value problem numerical methods, developed on a micro-UAV platform
 
 **Main Responsibilities**:
-- **Multi-Physics Modeling and Numerical Computation**: Derived a complete 12-dimensional nonlinear rigid-body dynamics model; implemented 5 classical explicit/implicit ODE numerical solvers using C++ and Eigen3 with high performance, achieving zero-branch-overhead dynamic dispatch via function pointers.
-- **Swarm Formation and Potential Field Obstacle Avoidance**: Extended the system to an N×12-dimensional multi-agent vectorized architecture, realizing multi-UAV "breathing ring" dynamic 3D formation coordination; developed a four-layer active obstacle avoidance algorithm incorporating smooth cubic potential fields, velocity damping braking, and tangential detour guidance.
-- **Real-Time Monitoring and Adaptive Closed-Loop Control**: Built a runtime four-dimensional safety monitor with an embedded lightweight online interval reachable set approximation analysis module, enabling per-step formal state checking of multi-dimensional safety conditions and worst-case collision warning; designed an online adaptive safety controller with a three-tier progressive active protection closed-loop mechanism: "step halving, switching to a more conservative solver, emergency shutdown."
-- **Counterexample Mining and Formal Boundedness Proof**: Built an automated full-factorial parameter sweep experimental framework with a critical step-size binary search algorithm to quantitatively mine safety boundary counterexamples; leveraged CORA to map low-level numerical truncation errors to bounded system disturbance inputs, and proved the absolute safety bound of multi-UAV relative error tubes through relative state-space projection geometry.
+- **Multi-Physics Modeling and Numerical Computation**: Derived a complete 12-dimensional nonlinear rigid-body dynamics model; implemented 5 classical explicit/implicit ODE numerical solvers with high performance using C++ and Eigen3.
+- **Swarm Formation and Potential Field Obstacle Avoidance**: Extended the system to an N×12-dimensional multi-agent vectorized architecture, realizing dynamic 3D formation coordination among multiple UAVs; developed an active obstacle avoidance algorithm incorporating smooth cubic potential fields, velocity damping braking, and tangential detour guidance.
+- **Real-Time Monitoring and Adaptive Closed-Loop Control**: Built a four-dimensional safety monitor with an embedded lightweight online interval reachable set approximation analysis module, enabling per-step formal state checking of multi-dimensional safety conditions and worst-case collision warning; designed an online adaptive safety controller with a three-tier progressive active protection closed-loop mechanism.
+- **Counterexample Mining and Formal Boundedness Proof**: Built an automated full-factorial parameter sweep experimental framework and a critical step-size binary search algorithm to quantitatively mine safety boundary counterexamples; leveraged CORA to prove the absolute safety bound of multi-UAV relative error tubes through relative state-space projection geometry.
 
 **Related Materials**:
 [[Technical Document]](recources/project/crazyflie/report.pdf) [[PPT]](https://www.canva.cn/design/DAHIEOinb0w/QmjbCJq-0J5sLvi4VwgRLQ/edit)
