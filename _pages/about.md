@@ -204,7 +204,7 @@ redirect_from:
 - 凭借舵轮设计申请一项 `实用型专利`[[专利证书]](recources/patent/CN2255429.pdf)
 
 **相关资料**：
-[[省赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%ba%8c%e4%bb%a3.pdf) [[国赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%b8%80%e4%bb%a3.pdf)
+[[国赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%ba%8c%e4%bb%a3.pdf) [[省赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%b8%80%e4%bb%a3.pdf)
 
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
