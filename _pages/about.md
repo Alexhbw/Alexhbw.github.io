@@ -20,9 +20,9 @@ redirect_from:
 # 📖 个人简介
 你好👋！我是郝博文，一名来自江苏省苏州市的大三学生，就读于 重庆大学 国家卓越工程师学院 2023级明月科创实验班，中共预备党员，重庆大学三好学生，学年综合测评成绩排名年级第二，总平均成绩`87.674`分，GPA`3.61`；两年累计获`国家级奖励6项`、`省市级9项`、`校级13项`，获1次甲等综合奖学金与2次乙等综合奖学金；目前担任国家卓越工程师学院科协副主席与24级明月科创实验班《人因工效学》《机器人基础》课程助教。
 
-入学以来，累计志愿时长达到226个小时，积极参与科技创新与社会实践，在大学生创新创业项目中带领团队获得`国家级优秀结项`，担任过`四门课程的学生助教`，参与过`两段暑期社会实践`，并曾在深圳科创学院、明月湖科创产业基地、Xbotics具身智能社区中有过`三段实习`，学习成绩与工作能力兼优。
+入学以来，累计志愿时长达到226个小时，积极参与科技创新与社会实践，在大学生创新创业项目中带领团队获得`国家级优秀结项`，担任过`四门课程的学生助教`，参与过`两段暑期社会实践`，并曾在香港中文大学（深圳）、深圳科创学院、明月湖科创产业基地、Xbotics具身智能社区中有过`四段实习`，学习成绩与工作能力兼优。
 
-目前我在重庆大学具身智能实验室研究冗余机械臂运动学与深度强化学习；我担任核心成员的 畅跑呼吸团队 已通过 明月湖国际智能产业科创基地 的`10万元阶段立项`；我获得了国家公派留学资格与资助资格，将于2026年9月前往 `新加坡科技设计大学` 参与一学期的交换学习 [[国家公派出国留学证明]](recources/project/certificate.pdf) [[学习计划]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e4%b8%ad%e6%96%87%e7%89%88%ef%bc%89.pdf)。 
+目前我在重庆大学具身智能实验室研究冗余机械臂运动学与深度强化学习；我担任核心成员的 畅跑呼吸团队 已通过 明月湖国际智能产业科创基地 的`50万元阶段立项`；我获得了国家公派留学资格与资助资格，将于2026年9月前往 `新加坡科技设计大学` 参与一学期的交换学习 [[国家公派出国留学证明]](recources/project/certificate.pdf) [[学习计划]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e4%b8%ad%e6%96%87%e7%89%88%ef%bc%89.pdf)。 
 
 
 
@@ -136,11 +136,11 @@ redirect_from:
 
 ### 中文
 ---
-- 洪竞权, `郝博文`,孙鹤梅,杨倩,任奔奔,常锦宏,孙奇栋,赵江涛. 一种驱动舵轮. [[受理通知书]](recources/patent/CN2255429_Application.pdf) [[申请文件]](recources/patent/document.pdf)
+- 洪竞权, `郝博文`,孙鹤梅,杨倩,任奔奔,常锦宏,孙奇栋,赵江涛. 一种驱动舵轮. [[专利证书]](recources/patent/CN2255429.pdf) [[申请文件]](recources/patent/document.pdf)
 
 ### 英文
 ---
-- Jingquan Hong, `Bowen Hao`, Hemei Sun, Qian Yang, Benben Ren, Jinhong Chang, Qidong Sun, Jiangtao Zhao. A Driving Steering Wheel. [[受理通知书]](recources/patent/CN2255429_Application.pdf) [[申请文件]](recources/patent/document.pdf)
+- Jingquan Hong, `Bowen Hao`, Hemei Sun, Qian Yang, Benben Ren, Jinhong Chang, Qidong Sun, Jiangtao Zhao. A Driving Steering Wheel. [[专利证书]](recources/patent/CN2255429.pdf) [[申请文件]](recources/patent/document.pdf)
 
 </div>
 </div>
@@ -201,7 +201,7 @@ redirect_from:
 **项目成果**：
 - 获得 2025年中国机器人大赛ROBOCUP农业灌溉组全国赛 `二等奖` [[国赛证书]](recources/project/irrigation/2025%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8RoboCup%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%ef%bc%88%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e8%b5%9b%e5%8c%ba%ef%bc%89-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%88%e6%80%bb%e5%86%b3%e8%b5%9b%ef%bc%89-Y2509T1450174-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf) 
 - 获得 2025中国机器人大赛重庆区域赛农业灌溉组 `省冠军` [[省赛证书]](recources/project/irrigation/2025+%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8+RoboCup+%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%e5%ba%86%e5%8c%ba%e5%9f%9f%e8%b5%9b-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba-Y2507T0740378-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf) 
-- 凭借舵轮设计进行一项 `专利申请`（申请中）
+- 凭借舵轮设计申请一项 `实用型专利`[[专利证书]](recources/patent/CN2255429.pdf)
 
 **相关资料**：
 [[省赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%ba%8c%e4%bb%a3.pdf) [[国赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%b8%80%e4%bb%a3.pdf)

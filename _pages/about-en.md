@@ -18,9 +18,9 @@ author: en
 # 📖 About Me
 Hello 👋! I am Hao Bowen, a junior student from Suzhou, Jiangsu Province, studying at Chongqing University's National Elite Institute of Engineering, Class 2023 Mingyue Innovation & Technology Experimental Class, a probationary member of the CCP, and Merit Student of Chongqing University. My comprehensive evaluation ranking is 2nd in grade with a total GPA of `3.61 (87.67/100)`; I have received `6 national-level awards`, `9 provincial-level awards`, and `13 school-level awards` in two years, and won First-Class Comprehensive Scholarship once and the Second-Class Comprehensive Scholarship twice. Currently serving as Vice Chairman of the Science and Technology Association of the National Elite Institute of Engineering and a teaching assistant for the "Human Factors Engineering" and "Fundamentals of Robotics" courses for the 2024-level Mingyue Innovation Lab.
 
-Since enrollment, I have accumulated 226 hours of volunteer service, actively participated in technological innovation and social practice. I led teams to receive `national-level excellent project completion` in undergraduate innovation and entrepreneurship projects, `served as a student teaching assistant for four courses`, participated in `two summer social practices` and `three internships`. I have interned at Shenzhen Innovation Academy, Mingyuehu Innovation and Industrial Base, and Xbotics Embodied Intelligence Community. I excel in both academic performance and work ability.
+Since enrollment, I have accumulated 226 hours of volunteer service, actively participated in technological innovation and social practice. I led teams to receive `national-level excellent project completion` in undergraduate innovation and entrepreneurship projects, `served as a student teaching assistant for four courses`, participated in `two summer social practices` and `four internships`. I have interned at The Chinese University of Hong Kong, Shenzhen, Shenzhen Innovation Academy, Mingyuehu Innovation and Industrial Base, and Xbotics Embodied Intelligence Community. I excel in both academic performance and work ability.
 
-Currently researching redundant robotic arm kinematics and Deep Reinforcement Learning at Chongqing University's Embodied Intelligence Laboratory. The "Chanpao Breathing" team, which I am a core member of, has passed the `RMB 100,000 staged funding approval` from Mingyuehu International Smart Industrial Innovation Base. I will participate in one semester of exchange learning at `Singapore University of Technology and Design` starting in September 2026 [[Certificate of State Sponsored Overseas Study]](recources/project/certificate.pdf) [[Study Plan ]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e8%8b%b1%e6%96%87%e7%89%88%ef%bc%89.pdf).
+Currently researching redundant robotic arm kinematics and Deep Reinforcement Learning at Chongqing University's Embodied Intelligence Laboratory. The "Chanpao Breathing" team, which I am a core member of, has passed the `RMB 500,000 staged funding approval` from Mingyuehu International Smart Industrial Innovation Base. I will participate in one semester of exchange learning at `Singapore University of Technology and Design` starting in September 2026 [[Certificate of State Sponsored Overseas Study]](recources/project/certificate.pdf) [[Study Plan ]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e8%8b%b1%e6%96%87%e7%89%88%ef%bc%89.pdf).
 
 ## My Personal Skills Include:
 - Mechanical Modeling (Fusion360, Solidworks, Machining, Assembly, etc.)
@@ -78,7 +78,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - *2024.05* 2024 Chongqing University VEX Robot Competition  `School First Prize`
 - *2024.11* 2024 Chongqing University Physics Academic Competition (CUPT)  `School First Prize`
 - *2025.05* 2025 Chongqing University Intelligent Car Competition Miniature Electromagnetic Group  `School Second Prize`
-- *2025.05* 2025 Chongqing University "Dream Soaring in the Sky" Aircraft Design Innovation Competition  `School First Prize`
+- *2025.05* 2025 Chongqing University "Dream Soaring in the Sky" Aircraft Design Innovation Competition  `School Second Prize`
 - ...
 
 ### Student Leadership Awards
@@ -117,7 +117,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 <div class='paper-box'><div class='paper-box-image'><div><img src='/recources/patent/patent.png' alt="Patent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Jingquan Hong, `Bowen Hao`, Hemei Sun, Qian Yang, Benben Ren, Jinhong Chang, Qidong Sun, Jiangtao Zhao. A Driving Steering Wheel. [[Acceptance Notice]](recources/patent/CN2255429_Application.pdf) [[Application Document]](recources/patent/document.pdf)
+- Jingquan Hong, `Bowen Hao`, Hemei Sun, Qian Yang, Benben Ren, Jinhong Chang, Qidong Sun, Jiangtao Zhao. A Driving Steering Wheel. [[Patent Certificate]](recources/patent/CN2255429.pdf) [[Application Document]](recources/patent/document.pdf)
 
 </div>
 </div>
@@ -172,7 +172,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 **Project Results**:
 - 2025 China Robot Competition ROBOCUP Agricultural Irrigation Group National Finals - `Second Prize` [[Certificate]](recources/project/irrigation/2025%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8RoboCup%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%ef%bc%88%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e8%b5%9b%e5%8c%ba%ef%bc%89-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%88%e6%80%bb%e5%86%b3%e8%b5%9b%ef%bc%89-Y2509T1450174-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf)
 - 2025 China Robot Competition Chongqing Regional Agricultural Irrigation Group - `Provincial Champion` [[Certificate]](recources/project/irrigation/2025+%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8+RoboCup+%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%e5%ba%86%e5%8c%ba%e5%9f%9f%e8%b5%9b-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba-Y2507T0740378-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf)
-- Filed a patent application based on steering wheel design
+- Obtained a `utility model patent` based on the steering wheel design [[Patent Certificate]](recources/patent/CN2255429.pdf)
 
 **Related Materials**:
 [[Regional Competition Technical Document]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%ba%8c%e4%bb%a3.pdf) [[National Competition Technical Document]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%b8%80%e4%bb%a3.pdf)
